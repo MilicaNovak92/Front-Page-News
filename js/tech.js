@@ -34,7 +34,7 @@ function display_data(html_element, items) {
         const category = item.querySelector("category").textContent
         const wrapThumb = item.querySelector("content")
         const thumb = (wrapThumb != null) ? wrapThumb.getAttribute("url") : "https://www.da.style/uploads/shop/nophoto/nophoto.jpg"
-        console.log(wrapThumb)
+        
          
         
        
