@@ -1,0 +1,33 @@
+.banner {
+   
+    color:white;  
+}
+
+.btn-outline-dark{
+    margin-top: 1rem; 
+    margin-bottom: 5rem;
+}
+
+.cat_header {
+text-align: center;
+color: tomato;
+}
+
+.container-fluid {
+    text-align:center;
+    align-items:center;
+}
+
+.main_area{
+    display: flex;
+   flex-direction: column;
+    text-align:center;
+    
+}
+
+#output {
+    margin: auto; 
+    align-self: center;
+    align-items:center;
+    
+}
